@@ -1,17 +1,13 @@
 # Autorzy
 
-Projekt został przygotowany w ramach zajęć poświęconych tworzeniu stron
+Projekt został przygotowany w ramach zajęć o systemach wspomagania pracy grupowej
 statycznych oraz algorytmom.
 
-| Rola | Osoba | Zadania |
-|------|-------|---------|
-| Redaktor / Programista | *(Twoje imię i nazwisko)* | Research, pisanie artykułów, kod przykładów |
-| Projekt graficzny | *(Twoje imię i nazwisko / zespół)* | Konfiguracja MkDocs Material, motyw kolorystyczny |
-| Korekta | *(Twoje imię i nazwisko / zespół)* | Sprawdzenie treści, źródeł i linków |
+| Autorzy |
+|------|
+| Eryk Żmuda |
+| Szymon Sander |
 
-!!! info "Uzupełnij dane"
-    Pola powyżej są przykładowe — zamień je na rzeczywiste imiona i nazwiska
-    osób biorących udział w projekcie.
 
 ## Kontakt
 
