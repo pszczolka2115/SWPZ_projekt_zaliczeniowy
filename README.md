@@ -1,7 +1,9 @@
 Autorzy:
 Eryk Żmuda, Szymon Sander
 
-Efekt pracy dostępny pod [linkiem](https://pszczolka2115.github.io/SWPZ_projekt_zaliczeniowy/) jako statyczna strona internetowa
+**Projekt zaliczeniowy z Systemów zarządzania pracą grupową**
 
-Do pracy użyto *mkdocs* i szablonu *material*
+Efekt pracy dostępny pod [linkiem](https://pszczolka2115.github.io/SWPZ_projekt_zaliczeniowy/)
+
+Do pracy użyto *mkdocs* i szablonu *material*.
 Strona zawiera 14 ciekawych i nietypowych algorytmów sortowania
