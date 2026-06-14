@@ -1,0 +1,56 @@
+site_name: Dziwne Algorytmy Sortowania
+site_description: Przegląd nietypowych, zabawnych i absurdalnych algorytmów sortowania
+site_author: Zespół Projektowy
+
+theme:
+  name: material
+  language: pl
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Przełącz na tryb ciemny
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Przełącz na tryb jasny
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - toc:
+      permalink: true
+
+nav:
+  - Strona główna: index.md
+  - Temat projektu: temat.md
+  - Autorzy: autorzy.md
+  - Teoria: teoria.md
+  - Algorytmy:
+      - Bogosort: algorytmy/bogosort.md
+      - Stooge Sort: algorytmy/stooge-sort.md
+      - Slowsort: algorytmy/slowsort.md
+      - Gnome Sort: algorytmy/gnome-sort.md
+      - Pancake Sort: algorytmy/pancake-sort.md
+      - Sleep Sort: algorytmy/sleep-sort.md
+      - Bead Sort (Gravity Sort): algorytmy/bead-sort.md
+      - I Can't Believe It Can Sort: algorytmy/icbics.md
+      - Patience Sort: algorytmy/patience-sort.md
+      - Spaghetti Sort: algorytmy/spaghetti-sort.md
+      - Odd-Even Transposition Sort: algorytmy/odd-even-sort.md
+      - Cocktail Shaker Sort: algorytmy/cocktail-shaker-sort.md
+      - Quantum Bogosort: algorytmy/quantum-bogosort.md
+      - Random Sort (Shuffle Sort): algorytmy/random-sort.md
