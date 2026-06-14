@@ -6,4 +6,4 @@ Eryk Żmuda, Szymon Sander
 Efekt pracy dostępny pod [linkiem](https://pszczolka2115.github.io/SWPZ_projekt_zaliczeniowy/)
 
 Do pracy użyto *mkdocs* i szablonu *material*.
-Strona zawiera 14 ciekawych i nietypowych algorytmów sortowania
+Strona zawiera informacje o 14 ciekawych i nietypowych algorytmów sortowania
